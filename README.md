@@ -34,15 +34,17 @@
 
 # Podcasting Resources
 
-Resources and links related to podcasting. Created for W/S/C 2018 but can be forked/added to as time goes on.
+Resources and links related to podcasting. Created for W/S/C 2018 (im not sure what this is?) but can be forked/added to as time goes on. But I have forked this repository and as I make my podcast for the statistics network I will update and extend on these resources for future start-ups and other researchers.
 
-A copy of that presentation is available in this GitHub repo, or by clicking [here](https://speakerdeck.com/filmgirl/everything-you-wanted-to-know-about-podcasting-but-were-afraid-to-ask). Amazon links do contain my affiliate link, feel free to strip that.
-
-## My (Current) Podcasts
+The orginal developer can be found [here](). A copy of W/S/C 2018 presentation is available in this GitHub repo, or by clicking [here](https://speakerdeck.com/filmgirl/everything-you-wanted-to-know-about-podcasting-but-were-afraid-to-ask). And below are a some podcasts from the orginal author.
 
 * [Rocket](https://www.relay.fm/rocket)
 * [Overtired](http://esn.fm/overtired)
 * [Behind the Tech with Kevin Scott](https://behindthetech.libsynpro.com/)
+
+## My (Current) Podcasts
+
+This is the beginning of the podcasting journey for me. Hopefully it is a smooth ride to popularity. :)
 
 ## Microphone Guides and Reviews
 
